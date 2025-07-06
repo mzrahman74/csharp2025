@@ -8,6 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\.editorconfig" />
+    <None Remove="..\.editorconfig" />
   </ItemGroup>
 </Project>
